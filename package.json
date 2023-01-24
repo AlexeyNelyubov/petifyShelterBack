@@ -1,0 +1,18 @@
+{
+  "name": "petifyshelterback",
+  "version": "0.0.1",
+  "description": "Petify API",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js"
+  },
+  "author": "Alexey Nelyubov",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
