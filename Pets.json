@@ -1,0 +1,322 @@
+[
+    {
+        "id": "aafsdsdfgsdfg352423",
+    "avatar": "src/assets/feed/imgcat.jpg",
+    "name": "Ёё",
+    "bio": "жила-была еще одна собака",
+    "type": "СоБака",
+    "age": 5,
+    "breeds": ["пикенес", "терьер"],
+    "gender": "мальчик",
+    "weight": 20,
+    "height": 3.5,
+    "sterilized": false,
+    "features":[],
+    "shelter": {
+    "id": "5576dfggfапgff",
+    "name": "Уют",
+    "description": "Приют...",
+    "address": "Москва"
+    }
+},
+{
+    "id": "aafsdsdfgsdfg352423",
+"avatar": "src/assets/feed/imgdog.jpg",
+"name": "Ёё",
+"bio": "жила-была еще одна собака",
+"type": "СоБака",
+"age": 5,
+"breeds": ["пикенес", "терьер"],
+"gender": "мальчик",
+"weight": 20,
+"height": 3.5,
+"sterilized": false,
+"features":[],
+"shelter": {
+"id": "5576dfggfапgff",
+"name": "Уют",
+"description": "Приют...",
+"address": "Москва"
+}
+},
+{
+    "id": "aafsdsdfgsdfg352423",
+"avatar": "src/assets/feed/imgbird.jpg",
+"name": "Ёё",
+"bio": "жила-была еще одна собака",
+"type": "СоБака",
+"age": 5,
+"breeds": ["пикенес", "терьер"],
+"gender": "мальчик",
+"weight": 20,
+"height": 3.5,
+"sterilized": false,
+"features":[],
+"shelter": {
+"id": "5576dfggfапgff",
+"name": "Уют",
+"description": "Приют...",
+"address": "Москва"
+}
+},
+{
+    "id": "aafsdsdfgsdfg352423",
+"avatar": "src/assets/feed/imgpappy.jpg",
+"name": "Ёё",
+"bio": "жила-была еще одна собака",
+"type": "СоБака",
+"age": 5,
+"breeds": ["пикенес", "терьер"],
+"gender": "мальчик",
+"weight": 20,
+"height": 3.5,
+"sterilized": false,
+"features":[],
+"shelter": {
+"id": "5576dfggfапgff",
+"name": "Уют",
+"description": "Приют...",
+"address": "Москва"
+}
+},
+{
+    "id": "aafsdsdfgsdfg352423",
+"avatar": "src/assets/feed/imgcat.jpg",
+"name": "Ёё",
+"bio": "жила-была еще одна собака",
+"type": "СоБака",
+"age": 5,
+"breeds": ["пикенес", "терьер"],
+"gender": "мальчик",
+"weight": 20,
+"height": 3.5,
+"sterilized": false,
+"features":[],
+"shelter": {
+"id": "5576dfggfапgff",
+"name": "Уют",
+"description": "Приют...",
+"address": "Москва"
+}
+},
+{
+"id": "aafsdsdfgsdfg352423",
+"avatar": "src/assets/feed/imgdog.jpg",
+"name": "Ёё",
+"bio": "жила-была еще одна собака",
+"type": "СоБака",
+"age": 5,
+"breeds": ["пикенес", "терьер"],
+"gender": "мальчик",
+"weight": 20,
+"height": 3.5,
+"sterilized": false,
+"features":[],
+"shelter": {
+"id": "5576dfggfапgff",
+"name": "Уют",
+"description": "Приют...",
+"address": "Москва"
+}
+},
+{
+"id": "aafsdsdfgsdfg352423",
+"avatar": "src/assets/feed/imgbird.jpg",
+"name": "Ёё",
+"bio": "жила-была еще одна собака",
+"type": "СоБака",
+"age": 5,
+"breeds": ["пикенес", "терьер"],
+"gender": "мальчик",
+"weight": 20,
+"height": 3.5,
+"sterilized": false,
+"features":[],
+"shelter": {
+"id": "5576dfggfапgff",
+"name": "Уют",
+"description": "Приют...",
+"address": "Москва"
+}
+},
+{
+"id": "aafsdsdfgsdfg352423",
+"avatar": "src/assets/feed/imgpappy.jpg",
+"name": "Ёё",
+"bio": "жила-была еще одна собака",
+"type": "СоБака",
+"age": 5,
+"breeds": ["пикенес", "терьер"],
+"gender": "мальчик",
+"weight": 20,
+"height": 3.5,
+"sterilized": false,
+"features":[],
+"shelter": {
+"id": "5576dfggfапgff",
+"name": "Уют",
+"description": "Приют...",
+"address": "Москва"
+}
+},
+{
+    "id": "aafsdsdfgsdfg352423",
+"avatar": "src/assets/feed/imgcat.jpg",
+"name": "Ёё",
+"bio": "жила-была еще одна собака",
+"type": "СоБака",
+"age": 5,
+"breeds": ["пикенес", "терьер"],
+"gender": "мальчик",
+"weight": 20,
+"height": 3.5,
+"sterilized": false,
+"features":[],
+"shelter": {
+"id": "5576dfggfапgff",
+"name": "Уют",
+"description": "Приют...",
+"address": "Москва"
+}
+},
+{
+"id": "aafsdsdfgsdfg352423",
+"avatar": "src/assets/feed/imgdog.jpg",
+"name": "Ёё",
+"bio": "жила-была еще одна собака",
+"type": "СоБака",
+"age": 5,
+"breeds": ["пикенес", "терьер"],
+"gender": "мальчик",
+"weight": 20,
+"height": 3.5,
+"sterilized": false,
+"features":[],
+"shelter": {
+"id": "5576dfggfапgff",
+"name": "Уют",
+"description": "Приют...",
+"address": "Москва"
+}
+},
+{
+"id": "aafsdsdfgsdfg352423",
+"avatar": "src/assets/feed/imgbird.jpg",
+"name": "Ёё",
+"bio": "жила-была еще одна собака",
+"type": "СоБака",
+"age": 5,
+"breeds": ["пикенес", "терьер"],
+"gender": "мальчик",
+"weight": 20,
+"height": 3.5,
+"sterilized": false,
+"features":[],
+"shelter": {
+"id": "5576dfggfапgff",
+"name": "Уют",
+"description": "Приют...",
+"address": "Москва"
+}
+},
+{
+"id": "aafsdsdfgsdfg352423",
+"avatar": "src/assets/feed/imgpappy.jpg",
+"name": "Ёё",
+"bio": "жила-была еще одна собака",
+"type": "СоБака",
+"age": 5,
+"breeds": ["пикенес", "терьер"],
+"gender": "мальчик",
+"weight": 20,
+"height": 3.5,
+"sterilized": false,
+"features":[],
+"shelter": {
+"id": "5576dfggfапgff",
+"name": "Уют",
+"description": "Приют...",
+"address": "Москва"
+}
+},
+{
+    "id": "aafsdsdfgsdfg352423",
+"avatar": "src/assets/feed/imgcat.jpg",
+"name": "Ёё",
+"bio": "жила-была еще одна собака",
+"type": "СоБака",
+"age": 5,
+"breeds": ["пикенес", "терьер"],
+"gender": "мальчик",
+"weight": 20,
+"height": 3.5,
+"sterilized": false,
+"features":[],
+"shelter": {
+"id": "5576dfggfапgff",
+"name": "Уют",
+"description": "Приют...",
+"address": "Москва"
+}
+},
+{
+"id": "aafsdsdfgsdfg352423",
+"avatar": "src/assets/feed/imgdog.jpg",
+"name": "Ёё",
+"bio": "жила-была еще одна собака",
+"type": "СоБака",
+"age": 5,
+"breeds": ["пикенес", "терьер"],
+"gender": "мальчик",
+"weight": 20,
+"height": 3.5,
+"sterilized": false,
+"features":[],
+"shelter": {
+"id": "5576dfggfапgff",
+"name": "Уют",
+"description": "Приют...",
+"address": "Москва"
+}
+},
+{
+"id": "aafsdsdfgsdfg352423",
+"avatar": "src/assets/feed/imgbird.jpg",
+"name": "Ёё",
+"bio": "жила-была еще одна собака",
+"type": "СоБака",
+"age": 5,
+"breeds": ["пикенес", "терьер"],
+"gender": "мальчик",
+"weight": 20,
+"height": 3.5,
+"sterilized": false,
+"features":[],
+"shelter": {
+"id": "5576dfggfапgff",
+"name": "Уют",
+"description": "Приют...",
+"address": "Москва"
+}
+},
+{
+"id": "aafsdsdfgsdfg352423",
+"avatar": "src/assets/feed/imgpappy.jpg",
+"name": "Ёё",
+"bio": "жила-была еще одна собака",
+"type": "СоБака",
+"age": 5,
+"breeds": ["пикенес", "терьер"],
+"gender": "мальчик",
+"weight": 20,
+"height": 3.5,
+"sterilized": false,
+"features":[],
+"shelter": {
+"id": "5576dfggfапgff",
+"name": "Уют",
+"description": "Приют...",
+"address": "Москва"
+}
+}
+]

@@ -1,13 +1,18 @@
-const express = require('express')
+require('dotenv').config();
+
+const express = require('express');
+const petsRouter = require('./routes/Pets.js')
 
 const app = express()
 
-PORT = 4000;
+app.use(express.json())
 
-app.listen(PORT, 'localhost', (error)=> {
-    error ? console.log(error) : console.log (`server listening port http://localhost:${PORT}`);
+app.use((req,res,next)=>{
+    console.log(req.path, req.method);
+next();
 })
+/app.use ('/api/pets', petsRouter);
 
-app.get ('/', (req, res)=> {
-    res.json({msg: 'sdkjfhsdjk'})
+app.listen(process.env.PORT, 'localhost', (error)=> {
+    error ? console.log(error) : console.log (`server listening port http://localhost:${process.env.PORT}`);
 })
