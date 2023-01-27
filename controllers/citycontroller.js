@@ -1,6 +1,6 @@
-const listCities = async(req, res) => {
+const listCities = (req, res) => {
         try {
-            const cities = await require('../RussiaCities.json')
+            const cities = require('../RussiaCities.json')
             res.status(200).json(cities)
         }
         catch(error) {

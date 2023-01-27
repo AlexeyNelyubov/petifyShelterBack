@@ -1,6 +1,6 @@
-const listPets = async(req, res) => {
+const listPets = (req, res) => {
         try {
-            const pets = await require('../Pets.json')
+            const pets = require('../Pets.json')
             res.status(200).json(pets)
         }
         catch(error) {

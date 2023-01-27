@@ -4,8 +4,8 @@ const russuanCyties = require('./RussianCities.js')
 
 const router = express.Router()
 
-router.use('/', petsRouter)
-router.use('/', russuanCyties)
+router.use('/pets', petsRouter)
+router.use('/city', russuanCyties)
 
 module.exports = router
 
