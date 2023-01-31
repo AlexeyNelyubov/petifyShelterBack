@@ -7,19 +7,23 @@ const appRouter = require('./routes/index.js')
 
 const app = express()
 
-app.disable('x-powered-by');
+app.disable("x-powered-by");
 
 app.use(express.json())
 
 app.use(cors({
-    origin: process.env.FRONT_URI,
-    methods: 'GET'
+    origin: process.env.FRONT_URL,
+    methods: 'GET',
+    allowedHeaders: [],
+    credentials: false,
+    maxAge: 60
 }))
 
 // app.use((req,res,next)=>{
 //     console.log(req.path, req.method);
 // next();
 // })
+
 app.use(morgan('dev'))
 
 app.use ('/api/v1', appRouter);
