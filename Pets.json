@@ -1,7 +1,7 @@
 [
     {
         "id": "aafsdsdfgsdfg352423",
-    "avatar": "src/assets/feed/imgcat.jpg",
+    "avatar": "http://localhost:4000/img/imgcat.jpg",
     "name": "Барсик",
     "bio": "Барсик-отличный кот",
     "type": "Кот",
@@ -22,7 +22,7 @@
 },
 {
     "id": "aafsdsdfgsdfg352423",
-"avatar": "src/assets/feed/imgdog.jpg",
+"avatar": "http://localhost:4000/img/imgdog.jpg",
 "name": "Дружок",
 "bio": "Жружок-отличный пёс",
 "type": "Собака",
@@ -43,7 +43,7 @@
 },
 {
     "id": "aafsdsdfgsdfg352423",
-"avatar": "src/assets/feed/imgbird.jpg",
+"avatar": "http://localhost:4000/img/imgbird.jpg",
 "name": "Флинт",
 "bio": "Флинт-отличный попугай",
 "type": "Птица",
@@ -64,7 +64,7 @@
 },
 {
     "id": "aafsdsdfgsdfg352423",
-"avatar": "src/assets/feed/imgpappy.jpg",
+"avatar": "http://localhost:4000/img/imgpappy.jpg",
 "name": "Джесси",
 "bio": "Джесси-отличный щенок",
 "type": "Собака",
@@ -85,7 +85,7 @@
 },
 {
     "id": "aafsdsdfgsdfg352423",
-"avatar": "src/assets/feed/imgcat2.jpeg",
+"avatar": "http://localhost:4000/img/imgcat2.jpeg",
 "name": "Ириска",
 "bio": "Ириска-отличная кошка",
 "type": "Кот",
@@ -106,7 +106,7 @@
 },
 {
     "id": "aafsdsdfgsdfg352423",
-"avatar": "src/assets/feed/imgcat3.jpg",
+"avatar": "http://localhost:4000/img/imgcat3.jpg",
 "name": "Пушинка",
 "bio": "Пушинка-отличная кошка",
 "type": "Кот",
@@ -127,7 +127,7 @@
 },
 {
     "id": "aafsdsdfgsdfg352423",
-"avatar": "src/assets/feed/imgdog2.jpg",
+"avatar": "http://localhost:4000/img/imgdog2.jpg",
 "name": "Старк",
 "bio": "Старк-отличный пёс",
 "type": "Собака",
@@ -148,7 +148,7 @@
 },
 {
     "id": "aafsdsdfgsdfg352423",
-"avatar": "src/assets/feed/imgcat.jpg",
+"avatar": "http://localhost:4000/img/imgcat.jpg",
 "name": "Барсик",
 "bio": "Барсик-отличный кот",
 "type": "Кот",
@@ -169,7 +169,7 @@
 },
 {
 "id": "aafsdsdfgsdfg352423",
-"avatar": "src/assets/feed/imgdog.jpg",
+"avatar": "http://localhost:4000/img/imgdog.jpg",
 "name": "Дружок",
 "bio": "Жружок-отличный пёс",
 "type": "Собака",
@@ -190,7 +190,7 @@
 },
 {
 "id": "aafsdsdfgsdfg352423",
-"avatar": "src/assets/feed/imgbird.jpg",
+"avatar": "http://localhost:4000/img/imgbird.jpg",
 "name": "Флинт",
 "bio": "Флинт-отличный попугай",
 "type": "Птица",
@@ -211,7 +211,7 @@
 },
 {
 "id": "aafsdsdfgsdfg352423",
-"avatar": "src/assets/feed/imgpappy.jpg",
+"avatar": "http://localhost:4000/img/imgpappy.jpg",
 "name": "Джесси",
 "bio": "Джесси-отличный щенок",
 "type": "Собака",
@@ -232,7 +232,7 @@
 },
 {
 "id": "aafsdsdfgsdfg352423",
-"avatar": "src/assets/feed/imgcat2.jpeg",
+"avatar": "http://localhost:4000/img/imgcat2.jpeg",
 "name": "Ириска",
 "bio": "Ириска-отличная кошка",
 "type": "Кот",
@@ -253,7 +253,7 @@
 },
 {
 "id": "aafsdsdfgsdfg352423",
-"avatar": "src/assets/feed/imgcat3.jpg",
+"avatar": "http://localhost:4000/img/imgcat3.jpg",
 "name": "Пушинка",
 "bio": "Пушинка-отличная кошка",
 "type": "Кот",
@@ -262,7 +262,7 @@
 "gender": "Самка",
 "weight": 4,
 "height": 30,
-"sterilized": false,
+"sterilized": true,
 "vaccinated": true,
 "features":["гипоаллергенная", "спокойная"],
 "shelter": {
@@ -274,11 +274,11 @@
 },
 {
 "id": "aafsdsdfgsdfg352423",
-"avatar": "src/assets/feed/imgdog2.jpg",
+"avatar": "http://localhost:4000/img/imgdog2.jpg",
 "name": "Старк",
 "bio": "Старк-отличный пёс",
 "type": "Собака",
-"age": "2016-04-06",
+"age": "2015-04-06",
 "breeds": ["Бернский зенненхунд"],
 "gender": "Самец",
 "weight": 40,

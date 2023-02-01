@@ -11,6 +11,8 @@ app.disable("x-powered-by");
 
 app.use(express.json())
 
+app.use('/img', express.static('./img'));
+
 app.use(cors({
     origin: process.env.FRONT_URL,
     methods: 'GET',
