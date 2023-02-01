@@ -24,7 +24,7 @@
     "id": "aafsdsdfgsdfg352423",
 "avatar": "http://localhost:4000/img/imgdog.jpg",
 "name": "Дружок",
-"bio": "Жружок-отличный пёс",
+"bio": "Дружок-отличный пёс",
 "type": "Собака",
 "age": "2020",
 "breeds": ["беспородный"],
@@ -35,10 +35,10 @@
 "vaccinated": false,
 "features":["игривый", "общительный", "поводок+"],
 "shelter": {
-"id": "5576dfggfапgff",
-"name": "Уют",
+"id": "5679dfrgfапgwf",
+"name": "Маяк",
 "description": "Приют...",
-"address": "Москва"
+"address": "Санкт-Петербург"
 }
 },
 {
@@ -98,10 +98,10 @@
 "vaccinated": true,
 "features":["дружелюбная", "ласковая"],
 "shelter": {
-"id": "5576dfggfапgff",
-"name": "Уют",
-"description": "Приют...",
-"address": "Москва"
+    "id": "5679dfrgfапgwf",
+    "name": "Маяк",
+    "description": "Приют...",
+    "address": "Санкт-Петербург"
 }
 },
 {
@@ -119,10 +119,10 @@
 "vaccinated": true,
 "features":["гипоаллергенная", "спокойная"],
 "shelter": {
-"id": "5576dfggfапgff",
-"name": "Уют",
-"description": "Приют...",
-"address": "Москва"
+    "id": "5679dfrgfапgwf",
+    "name": "Маяк",
+    "description": "Приют...",
+    "address": "Санкт-Петербург"
 }
 },
 {
@@ -171,7 +171,7 @@
 "id": "aafsdsdfgsdfg352423",
 "avatar": "http://localhost:4000/img/imgdog.jpg",
 "name": "Дружок",
-"bio": "Жружок-отличный пёс",
+"bio": "Дружок-отличный пёс",
 "type": "Собака",
 "age": "2020",
 "breeds": ["беспородный"],
@@ -182,10 +182,10 @@
 "vaccinated": false,
 "features":["игривый", "общительный", "поводок+"],
 "shelter": {
-"id": "5576dfggfапgff",
-"name": "Уют",
-"description": "Приют...",
-"address": "Москва"
+    "id": "5679dfrgfапgwf",
+    "name": "Маяк",
+    "description": "Приют...",
+    "address": "Санкт-Петербург"
 }
 },
 {
@@ -245,10 +245,10 @@
 "vaccinated": true,
 "features":["дружелюбная", "ласковая"],
 "shelter": {
-"id": "5576dfggfапgff",
-"name": "Уют",
-"description": "Приют...",
-"address": "Москва"
+    "id": "5679dfrgfапgwf",
+    "name": "Маяк",
+    "description": "Приют...",
+    "address": "Санкт-Петербург"
 }
 },
 {
@@ -266,10 +266,10 @@
 "vaccinated": true,
 "features":["гипоаллергенная", "спокойная"],
 "shelter": {
-"id": "5576dfggfапgff",
-"name": "Уют",
-"description": "Приют...",
-"address": "Москва"
+    "id": "5679dfrgfапgwf",
+    "name": "Маяк",
+    "description": "Приют...",
+    "address": "Санкт-Петербург"
 }
 },
 {
