@@ -145,5 +145,152 @@
 "description": "Приют...",
 "address": "Москва"
 }
+},
+{
+    "id": "aafsdsdfgsdfg352423",
+"avatar": "http://localhost:4000/img/imgcat.jpg",
+"name": "Барсик",
+"bio": "Барсик-отличный кот",
+"type": "Кот",
+"age": "2019-09",
+"breeds": ["беспородный"],
+"gender": "Самец",
+"weight": 5,
+"height": 25,
+"sterilized": false,
+"vaccinated": false,
+"features":["спокойный", "ласковый", "лоток+"],
+"shelter": {
+"id": "5576dfggfапgff",
+"name": "Уют",
+"description": "Приют...",
+"address": "Москва"
+}
+},
+{
+"id": "aafsdsdfgsdfg355423",
+"avatar": "http://localhost:4000/img/imgdog.jpg",
+"name": "Дружок",
+"bio": "Дружок-отличный пёс",
+"type": "Собака",
+"age": "2020",
+"breeds": ["беспородный"],
+"gender": "Самец",
+"weight": 20,
+"height": 80,
+"sterilized": true,
+"vaccinated": false,
+"features":["игривый", "общительный", "поводок+"],
+"shelter": {
+    "id": "5679dfrgfапgwf",
+    "name": "Маяк",
+    "description": "Приют...",
+    "address": "Санкт-Петербург"
+}
+},
+{
+"id": "aafdesdfgsdfg352423",
+"avatar": "http://localhost:4000/img/imgbird.jpg",
+"name": "Флинт",
+"bio": "Флинт-отличный попугай",
+"type": "Птица",
+"age": "2019-04-01",
+"breeds": ["волнистый"],
+"gender": "Самец",
+"weight": 0.04,
+"height": 15,
+"sterilized": false,
+"vaccinated": false,
+"features":["общительный", "любит солнце"],
+"shelter": {
+"id": "5576dfggfапgff",
+"name": "Уют",
+"description": "Приют...",
+"address": "Москва"
+}
+},
+{
+"id": "bafsdsdfgsdfg352423",
+"avatar": "http://localhost:4000/img/imgpappy.jpg",
+"name": "Джесси",
+"bio": "Джесси-отличный щенок",
+"type": "Собака",
+"age": "2022-12-12",
+"breeds": ["автралийский келпи"],
+"gender": "Самка",
+"weight": 3,
+"height": 30,
+"sterilized": false,
+"vaccinated": true,
+"features":["ласковая", "общительная"],
+"shelter": {
+"id": "5576dfggfапgff",
+"name": "Уют",
+"description": "Приют...",
+"address": "Москва"
+}
+},
+{
+"id": "aafsdsdfasdfg352423",
+"avatar": "http://localhost:4000/img/imgcat2.jpeg",
+"name": "Ириска",
+"bio": "Ириска-отличная кошка",
+"type": "Кот",
+"age": "2018-10-23",
+"breeds": ["британская длинношёрстная"],
+"gender": "Самка",
+"weight": 3,
+"height": 30,
+"sterilized": true,
+"vaccinated": true,
+"features":["дружелюбная", "ласковая"],
+"shelter": {
+    "id": "5679dfrgfапgwf",
+    "name": "Маяк",
+    "description": "Приют...",
+    "address": "Санкт-Петербург"
+}
+},
+{
+"id": "aafsdsdfgsdfg372423",
+"avatar": "http://localhost:4000/img/imgcat3.jpg",
+"name": "Пушинка",
+"bio": "Пушинка-отличная кошка",
+"type": "Кот",
+"age": "2021-05-22",
+"breeds": ["сибирская"],
+"gender": "Самка",
+"weight": 4,
+"height": 30,
+"sterilized": true,
+"vaccinated": true,
+"features":["гипоаллергенная", "спокойная"],
+"shelter": {
+    "id": "5679dfrgfапgwf",
+    "name": "Маяк",
+    "description": "Приют...",
+    "address": "Санкт-Петербург"
+}
+},
+{
+"id": "aafsdsdfgsdfg352548",
+"avatar": "http://localhost:4000/img/imgdog2.jpg",
+"name": "Старк",
+"bio": "Старк-отличный пёс",
+"type": "Собака",
+"age": "2015-04-06",
+"breeds": ["Бернский зенненхунд"],
+"gender": "Самец",
+"weight": 40,
+"height": 60,
+"sterilized": true,
+"vaccinated": false,
+"features":["пожилой", "компаньон", "поводок+"],
+"shelter": {
+"id": "5576dfggfапgff",
+"name": "Уют",
+"description": "Приют...",
+"address": "Москва"
+}
 }
 ]
