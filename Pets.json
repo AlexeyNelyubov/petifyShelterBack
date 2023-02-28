@@ -3,7 +3,7 @@
         "id": "aafsdsdfgsdfg352423",
     "avatar": "http://localhost:4000/img/imgcat.jpg",
     "name": "Барсик",
-    "bio": "Барсик-отличный кот",
+    "bio": "Барсик-отличный кот. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?",
     "type": "Кот",
     "age": "2019-09",
     "breeds": ["Беспородная"],
@@ -16,7 +16,7 @@
     "shelter": {
         "id": "5576dfggfапgff",
         "name": "Уют",
-        "description": "Приют...",
+        "description": "Приют",
         "address": "Москва"
     }
 },
@@ -24,7 +24,7 @@
     "id": "aafsdsdfgsdfg355423",
     "avatar": "http://localhost:4000/img/imgdog.jpg",
     "name": "Дружок",
-    "bio": "Дружок-отличный пёс",
+    "bio": "Дружок-отличный пёс. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?",
     "type": "Собака",
     "age": "2020",
     "breeds": ["Беспородная"],
@@ -37,7 +37,7 @@
     "shelter": {
         "id": "5679dfrgfапgwf",
         "name": "Маяк",
-        "description": "Приют...",
+        "description": "Приют",
         "address": "Санкт-Петербург"
     }
 },
@@ -45,7 +45,7 @@
     "id": "aafdesdfgsdfg352423",
     "avatar": "http://localhost:4000/img/imgbird.jpg",
     "name": "Флинт",
-    "bio": "Флинт-отличный попугай",
+    "bio": "Флинт-отличный попугай. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?",
     "type": "Птица",
     "age": "2019-04-01",
     "breeds": ["Волнистый"],
@@ -58,7 +58,7 @@
     "shelter": {
             "id": "5576dfggfапgff",
             "name": "Уют",
-            "description": "Приют...",
+            "description": "Приют",
             "address": "Москва"
     }
 },
@@ -66,7 +66,7 @@
     "id": "bafsdsdfgsdfg352423",
     "avatar": "http://localhost:4000/img/imgpappy.jpg",
     "name": "Джесси",
-    "bio": "Джесси-отличный щенок",
+    "bio": "Джесси-отличный щенок. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?",
     "type": "Собака",
     "age": "2022-12-12",
     "breeds": ["Автралийский келпи"],
@@ -79,7 +79,7 @@
     "shelter": {
         "id": "5576dfggfапgff",
         "name": "Уют",
-        "description": "Приют...",
+        "description": "Приют",
         "address": "Москва"
     }
 },
@@ -87,7 +87,7 @@
     "id": "aafsdsdfasdfg352423",
     "avatar": "http://localhost:4000/img/imgcat2.jpeg",
     "name": "Ириска",
-    "bio": "Ириска-отличная кошка",
+    "bio": "Ириска-отличная кошка. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?",
     "type": "Кот",
     "age": "2018-10-23",
     "breeds": ["Британская длинношёрстная"],
@@ -100,7 +100,7 @@
     "shelter": {
         "id": "5679dfrgfапgwf",
         "name": "Маяк",
-        "description": "Приют...",
+        "description": "Приют",
         "address": "Санкт-Петербург"
     }
 },
@@ -108,7 +108,7 @@
     "id": "aafsdsdfgsdfg372423",
     "avatar": "http://localhost:4000/img/imgcat3.jpg",
     "name": "Пушинка",
-    "bio": "Пушинка-отличная кошка",
+    "bio": "Пушинка-отличная кошка. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?",
     "type": "Кот",
     "age": "2021-05-22",
     "breeds": ["Сибирская"],
@@ -121,7 +121,7 @@
 "shelter": {
     "id": "5679dfrgfапgwf",
     "name": "Маяк",
-    "description": "Приют...",
+    "description": "Приют",
     "address": "Санкт-Петербург"
 }
 },
@@ -129,7 +129,7 @@
     "id": "aafsdsdfgsdfg352548",
     "avatar": "http://localhost:4000/img/imgdog2.jpg",
     "name": "Старк",
-    "bio": "Старк-отличный пёс",
+    "bio": "Старк-отличный пёс. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?",
     "type": "Собака",
     "age": "2015-04-06",
     "breeds": ["Бернский зенненхунд"],
@@ -142,7 +142,7 @@
     "shelter": {
         "id": "5576dfggfапgff",
         "name": "Уют",
-        "description": "Приют...",
+        "description": "Приют",
         "address": "Москва"
     }
 },
@@ -150,7 +150,7 @@
     "id": "aafsdsdfgsdfg352986",
     "avatar": "http://localhost:4000/img/imgdog4.jpg",
     "name": "Лина",
-    "bio": "Лина-отличная собака",
+    "bio": "Лина-отличная собака. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?",
     "type": "Собака",
     "age": "2020-10-06",
     "breeds": ["Лабрадор", "Ретривер"],
@@ -163,7 +163,7 @@
     "shelter": {
         "id": "6736dfggfапgff",
         "name": "Теремок",
-        "description": "Приют...",
+        "description": "Приют",
         "address": "Калининград"
     }
 },
@@ -171,7 +171,7 @@
     "id": "adnodsdfgsdfg372423",
     "avatar": "http://localhost:4000/img/imgcat4.jpg",
     "name": "Муся",
-    "bio": "Муся-отличная кошка",
+    "bio": "Муся-отличная кошка. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?",
     "type": "Кот",
     "age": "2021-05-26",
     "breeds": ["Беспородная"],
@@ -184,7 +184,7 @@
     "shelter": {
         "id": "5679dfrgfапgwf",
         "name": "Маяк",
-        "description": "Приют...",
+        "description": "Приют",
         "address": "Санкт-Петербург"
     }
 },
@@ -192,7 +192,7 @@
     "id": "aaflasdfgsdfg352423",
     "avatar": "http://localhost:4000/img/imgbird2.jpeg",
     "name": "Мария",
-    "bio": "Мария-отличный попугай",
+    "bio": "Мария-отличный попугай. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?",
     "type": "Птица",
     "age": "2019-04-01",
     "breeds": ["Розелла"],
@@ -205,7 +205,7 @@
     "shelter": {
         "id": "5679dfrgfапgwf",
         "name": "Маяк",
-        "description": "Приют...",
+        "description": "Приют",
         "address": "Санкт-Петербург"
     }
 },
@@ -213,7 +213,7 @@
     "id": "aafsdsdfgsdfg352933",
     "avatar": "http://localhost:4000/img/imgdog5.jpg",
     "name": "Мира",
-    "bio": "Мира-отличная собака",
+    "bio": "Мира-отличная собака. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?",
     "type": "Собака",
     "age": "2019-12-03",
     "breeds": ["Автралийский келпи", "Австралийская овчарка"],
@@ -226,7 +226,7 @@
     "shelter": {
         "id": "6736dfggfапgff",
         "name": "Теремок",
-        "description": "Приют...",
+        "description": "Приют",
         "address": "Калининград"
     }
 },
@@ -234,7 +234,7 @@
     "id": "bafsdsdfgsdfg357523",
     "avatar": "http://localhost:4000/img/imgpappy2.jpg",
     "name": "Трезор",
-    "bio": "Трезор-отличный щенок",
+    "bio": "Трезор-отличный щенок. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?",
     "type": "Собака",
     "age": "2022-11-22",
     "breeds": ["Беспородная"],
@@ -247,7 +247,7 @@
     "shelter": {
         "id": "5576dfggfапgff",
         "name": "Уют",
-        "description": "Приют...",
+        "description": "Приют",
         "address": "Москва"
     }
 },
@@ -255,7 +255,7 @@
     "id": "adnodsdfgsdfg372083",
     "avatar": "http://localhost:4000/img/imgcat5.jpg",
     "name": "Соня",
-    "bio": "Соня-отличная кошка",
+    "bio": "Соня-отличная кошка. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?",
     "type": "Кот",
     "age": "2020-10-17",
     "breeds": ["Американская короткошёрстная"],
@@ -268,7 +268,7 @@
     "shelter": {
         "id": "5679dfrgfапgwf",
         "name": "Маяк",
-        "description": "Приют...",
+        "description": "Приют",
         "address": "Санкт-Петербург"
     }
 },
@@ -276,7 +276,7 @@
     "id": "bafsdsdkgsdfg357523",
     "avatar": "http://localhost:4000/img/imgpappy3.jpg",
     "name": "Ника",
-    "bio": "Ника-отличный щенок",
+    "bio": "Ника-отличный щенок. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?",
     "type": "Собака",
     "age": "2022-12-22",
     "breeds": ["Беспородная"],
@@ -289,7 +289,7 @@
     "shelter": {
         "id": "5679dfrgfапgwf",
         "name": "Маяк",
-        "description": "Приют...",
+        "description": "Приют",
         "address": "Санкт-Петербург"
     }   
 },
@@ -297,7 +297,7 @@
     "id": "adnoxerfgsdfs722083",
     "avatar": "http://localhost:4000/img/imgcat7.jpg",
     "name": "Тишка",
-    "bio": "Тишка-отличная кошка",
+    "bio": "Тишка-отличная кошка. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?",
     "type": "Кот",
     "age": "2022-12-10",
     "breeds": ["Беспородная"],
@@ -310,7 +310,7 @@
     "shelter": {
         "id": "6736dfggfапgff",
         "name": "Теремок",
-        "description": "Приют...",
+        "description": "Приют",
         "address": "Калининград"
     }
 },
@@ -318,7 +318,7 @@
     "id": "aaflasdfgsdnr552423",
     "avatar": "http://localhost:4000/img/imgbird3.jpg",
     "name": "Говорун",
-    "bio": "Говорун-отличный попугай",
+    "bio": "Говорун-отличный попугай. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?",
     "type": "Птица",
     "age": "2018-08-15",
     "breeds": ["Корелла"],
@@ -331,7 +331,7 @@
     "shelter": {
             "id": "5576dfggfапgff",
             "name": "Уют",
-            "description": "Приют...",
+            "description": "Приют",
             "address": "Москва"
     }
 },
@@ -339,7 +339,7 @@
     "id": "bafsdsdfgsdfg357223",
     "avatar": "http://localhost:4000/img/imgpappy4.jpg",
     "name": "Контик",
-    "bio": "Контик-отличный щенок",
+    "bio": "Контик-отличный щенок. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?",
     "type": "Собака",
     "age": "2023-01-10",
     "breeds": ["Беспородная"],
@@ -352,7 +352,7 @@
     "shelter": {
         "id": "6736dfggfапgff",
         "name": "Теремок",
-        "description": "Приют...",
+        "description": "Приют",
         "address": "Калининград"
     }
 },
@@ -360,7 +360,7 @@
     "id": "adnoxerfgsdfg372083",
     "avatar": "http://localhost:4000/img/imgcat6.jpg",
     "name": "Уголёк",
-    "bio": "Уголёк-отличная кошка",
+    "bio": "Уголёк-отличная кошка. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?",
     "type": "Кот",
     "age": "2019-12-10",
     "breeds": ["Персидская"],
@@ -373,7 +373,7 @@
     "shelter": {
         "id": "6736dfggfапgff",
         "name": "Теремок",
-        "description": "Приют...",
+        "description": "Приют",
         "address": "Калининград"
     }
 },
@@ -381,7 +381,7 @@
     "id": "aafopsdfgsdfg352933",
     "avatar": "http://localhost:4000/img/imgdog3.jpg",
     "name": "Сара",
-    "bio": "Сара-отличная собака",
+    "bio": "Сара-отличная собака.Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?",
     "type": "Собака",
     "age": "2017-03-09",
     "breeds": ["Беспородная"],
@@ -394,7 +394,7 @@
     "shelter": {
         "id": "6736dfggfапgff",
         "name": "Теремок",
-        "description": "Приют...",
+        "description": "Приют",
         "address": "Калининград"
     }
 },
@@ -402,7 +402,7 @@
     "id": "aafsdsxposdfg352548",
     "avatar": "http://localhost:4000/img/imgdog6.jpg",
     "name": "Иртыш",
-    "bio": "Иртыш-отличный пёс",
+    "bio": "Иртыш-отличный пёс. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?",
     "type": "Собака",
     "age": "2019-09-06",
     "breeds": ["Хаски", "Лайка"],
@@ -415,7 +415,7 @@
     "shelter": {
         "id": "5576dfggfапgff",
         "name": "Уют",
-        "description": "Приют...",
+        "description": "Приют",
         "address": "Москва"
     }
 },
@@ -423,7 +423,7 @@
     "id": "adnoqwefgsdfg372083",
     "avatar": "http://localhost:4000/img/imgcat8.jpg",
     "name": "Пушок",
-    "bio": "Пушок-отличная кошка",
+    "bio": "Пушок-отличная кошка. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?",
     "type": "Кот",
     "age": "2018-11-11",
     "breeds": ["Турецкий ван"],
@@ -436,7 +436,7 @@
     "shelter": {
         "id": "6736dfggfапgff",
         "name": "Теремок",
-        "description": "Приют...",
+        "description": "Приют",
         "address": "Калининград"
     }
 }
