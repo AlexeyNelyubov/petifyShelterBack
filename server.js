@@ -15,8 +15,8 @@ app.use('/img', express.static('./img'));
 
 app.use(cors({
     origin: process.env.FRONT_URL,
-    methods: 'GET',
-    allowedHeaders: [],
+    methods: ['GET', 'POST'],
+    allowedHeaders: ["Content-Type"],
     credentials: false,
     maxAge: 60
 }))
