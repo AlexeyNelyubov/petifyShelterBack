@@ -2,13 +2,13 @@ const fs = require('fs')
 
 const SignUp = async (req, res) => {
     try{
-        console.log(req.body)
-        const {firstName, lastName, email, city} = req.body;
+        const {firstName, lastName, email, city, password} = req.body;
         const user = {
             firstName,
             lastName,
             email,
             city,
+            password,
         }
         const users = await fs.promises.readFile('user.json')
         if (!users.length){
