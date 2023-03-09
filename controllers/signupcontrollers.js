@@ -12,22 +12,22 @@ const SignUp = async (req, res) => {
         }
         const users = await fs.promises.readFile('user.json')
         if (!users.length){
-            const jsonUsers = []
-            jsonUsers.push(user);
-            const data = JSON.stringify(jsonUsers, null, 2)
-            await fs.promises.writeFile('user.json', data);
+            const newUsers = []
+            newUsers.push(user);
+            const jsonNewUsers = JSON.stringify(newUsers, null, 2)
+            await fs.promises.writeFile('user.json', jsonNewUsers);
             res.status(200).json(user)
         } else {
-            const jsonUsers = JSON.parse(users);
-            for( let jsonUser of jsonUsers) {
-                if (jsonUser.email === user.email) {
+            const newUsers = JSON.parse(users);
+            for( let newUser of newUsers) {
+                if (newUser.email === user.email) {
                     throw new Error ('Пользователь с таким email уже существует')
                 }
             }
-            jsonUsers.push(user);
+            newUsers.push(user);
             await fs.promises.truncate('user.json');
-            const data = JSON.stringify(jsonUsers, null, 2)
-            await fs.promises.writeFile('user.json', data);
+            const jsonNewUsers = JSON.stringify(newUsers, null, 2)
+            await fs.promises.writeFile('user.json', jsonNewUsers);
             res.status(200).json(user)
         }
         
