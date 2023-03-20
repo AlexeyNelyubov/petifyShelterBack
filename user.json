@@ -47,5 +47,26 @@
     "email": "ghjkldf@dsf.kl",
     "city": "",
     "password": "jhkhjkhjk"
+  },
+  {
+    "firstName": "asw",
+    "lastName": "asw",
+    "email": "asw@asw.asw",
+    "city": "",
+    "password": "asw123asw"
+  },
+  {
+    "firstName": "sdfgsdfg",
+    "lastName": "dsfgsdfg",
+    "email": "sgsdfsdf@sdg.fgj",
+    "city": "",
+    "password": "dfhgfhdgfhdfh"
+  },
+  {
+    "firstName": "adfgfh",
+    "lastName": "asdfgdfg",
+    "email": "dfhgfghfg@hg.gh",
+    "city": "",
+    "password": "ghjkfgjhfgjh"
   }
 ]

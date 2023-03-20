@@ -8,11 +8,11 @@ const PetId = (req, res) => {
                 pet = item;
             }
         }
-    res.status(200).json(pet);
+        res.status(200).json(pet);
     }
     catch(error) {
-        console.error(error);
-        res.status(500).json('error')
+        console.error(error.message);
+        res.status(500).json(error.message) 
     }
 }
 

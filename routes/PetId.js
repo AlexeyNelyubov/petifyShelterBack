@@ -1,5 +1,5 @@
 const express = require('express');
-const { PetId } = require ('../controllers/petidcontroller.js')
+const { PetId } = require ('../controllers/petIdController.js')
 const router = express.Router();
 
 

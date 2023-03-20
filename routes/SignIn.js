@@ -1,7 +1,7 @@
 const express = require('express')
-const {signIn} = require ('../controllers/signincontroller.js')
+const {signIn} = require ('../controllers/signInController.js')
 const router = express.Router()
 
-router.get('/:email.:password', signIn)
+router.post('/', signIn)
 
 module.exports = router;
