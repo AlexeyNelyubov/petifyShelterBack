@@ -1,5 +1,5 @@
 const PetId = (req, res) => {
-    
+    console.log('cookie', req.cookies)
     try{
         const pets = require('../Pets.json');
         let pet = 'pet not found';
