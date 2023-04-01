@@ -14,18 +14,18 @@ const createToken = (_id) => {
 const SignUp = async (req, res) => {
     const {firstName, lastName, email, city, password} = req.body;
     try{
-        if(!/^\w+@\w{2,}\.\w{2,3}$/.test(email)) {
-            return res.status(401).json("The email is not valid")
+        if(!/^\S+@\w{2,}\.\w{2,3}$/.test(email)) {
+            return res.status(403).json("The email is not valid")
             // throw new Error('The email is not valid')
         }
         if(!/^\S{8,64}$/.test(password)) {
             // throw new Error('The password is not valid')
-            return res.status(401).json("The password is not valid")
+            return res.status(403).json("The password is not valid")
         }
         const exists = await User.findOne({email})
 
     if(exists) {
-        return res.status(401).json('Пользователь с таким email уже существует');
+        return res.status(403).json('Пользователь с таким email уже существует');
         // throw new Error('The same email aleady exsists')
     }
 
