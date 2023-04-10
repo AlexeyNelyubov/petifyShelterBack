@@ -4,7 +4,7 @@ const petIdRouter = require('./PetId.js')
 const russuanCyties = require('./RussianCities.js')
 const signUp = require('./SignUp.js')
 const signIn = require ('./SignIn.js')
-const {logOut} = require ('./logOut.js')
+const newPet = require ('./newPet.js')
 
 const router = express.Router()
 
@@ -13,7 +13,7 @@ router.use('/pet', petIdRouter)
 router.use('/city', russuanCyties)
 router.use('/signup', signUp)
 router.use('/signin', signIn)
-router.get('/logout', logOut)
+router.use('/newpet', newPet)
 
 module.exports = router
 

@@ -1,9 +1,15 @@
-const PetId = (req, res) => {
-    console.log('cookie', req.cookies)
+const Pet = require('../models/PetModel.js')
+
+const PetId = async(req, res) => {
+    // console.log('cookie', req.cookies)
     try{
-        const pets = require('../Pets.json');
+        const pets = await Pet.find({})
+        // const pets = require('../Pets.json');
+        // console.log(pets);
+        console.log(req.params.id)
         let pet = 'pet not found';
         for (let item of pets) {
+            console.log(item.id)
             if (item.id === req.params.id) {
                 pet = item;
             }

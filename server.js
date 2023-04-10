@@ -5,11 +5,14 @@ const mongoose = require('mongoose');
 const morgan = require('morgan');
 const cors = require('cors');
 const cookieParser = require('cookie-parser')
+const fileUpload = require('express-fileupload')
 const appRouter = require('./routes/index.js')
 
 const app = express()
 
 app.use(cookieParser())
+
+app.use(fileUpload({}))
 
 app.disable("x-powered-by");
 
