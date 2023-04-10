@@ -6,10 +6,10 @@ const PetId = async(req, res) => {
         const pets = await Pet.find({})
         // const pets = require('../Pets.json');
         // console.log(pets);
-        console.log(req.params.id)
+        // console.log(req.params.id)
         let pet = 'pet not found';
         for (let item of pets) {
-            console.log(item.id)
+            // console.log(item.id)
             if (item.id === req.params.id) {
                 pet = item;
             }
