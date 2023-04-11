@@ -1,7 +1,6 @@
 const Pet = require('../models/PetModel.js')
 
 const PetId = async(req, res) => {
-    // console.log('cookie', req.cookies)
     try{
         const pets = await Pet.find({})
         let pet = 'pet not found';
