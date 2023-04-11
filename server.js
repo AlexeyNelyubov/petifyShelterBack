@@ -21,11 +21,14 @@ app.use(express.json())
 app.use('/img', express.static('./img'));
 
 app.use(cors({
-    origin: process.env.FRONT_URL,
+    origin: [process.env.FRONT_URL, process.env.FRONT_URL_GITPG],
     methods: ['GET', 'POST'],
     allowedHeaders: ["Content-Type"],
     credentials: true,
 }))
+
+// origin: process.env.FRONT_URL,
+// origin: [`${process.env.FRONT_URL}`, `${process.env.FRONT_URL_GITPG}`],
 
 app.use(morgan('dev'))
 
