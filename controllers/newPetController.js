@@ -4,7 +4,7 @@ const Pet = require('../models/PetModel.js')
 
 const newPet = async(req, res)=> {
     try {
-        console.log(JSON.parse(req.body.newPet))
+        // console.log(JSON.parse(req.body.newPet))
         // const pets = require('../Pets.json')
         // // console.log(pets);
         // for (let pet of pets) {
