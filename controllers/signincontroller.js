@@ -12,6 +12,7 @@ const createToken = (_id) => {
 
 const signIn = async (req,res)=> {
     // console.log('body', req.body)
+    console.log(req)
     try {
         const user = await User.findOne({email: req.body.email});
         if (!user) { 

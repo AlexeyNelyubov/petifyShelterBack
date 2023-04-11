@@ -3,6 +3,7 @@ const Pet = require('../models/PetModel.js');
 
 const listPets = async(req, res) => {
         try {
+            console.log(req)
             const pets = await Pet.find({})
             // const pets = require('../Pets.json')
             // console.log(pets)

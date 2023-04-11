@@ -1,5 +1,6 @@
 const listCities = (req, res) => {
         try {
+            console.log(req)
             const cities = require('../RussiaCities.json')
             res.status(200).json(cities)
         }

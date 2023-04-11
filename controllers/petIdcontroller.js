@@ -2,6 +2,7 @@ const Pet = require('../models/PetModel.js')
 
 const PetId = async(req, res) => {
     try{
+        console.log(req)
         const pets = await Pet.find({})
         let pet = 'pet not found';
         for (let item of pets) {
