@@ -31,7 +31,7 @@ app.use(morgan('dev'))
 
 app.use ('/api/v1', appRouter);
 
-mongoose.connect(process.env.MONGO_URI)
+mongoose.connect(`${process.env.MONGO_URI}`)
     .then(()=> {
         app.listen(process.env.PORT, 'localhost', (error)=> {
             error ? console.log(error) : console.log (`connected to DB & server listening port http://localhost:${process.env.PORT}`);
