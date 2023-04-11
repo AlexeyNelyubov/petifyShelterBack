@@ -1,0 +1,443 @@
+[
+    {
+        "id": "aafsdsdfgsdfg352423",
+    "avatar": "https://petify-shelter-back.onrender.com/img/imgcat.jpg",
+    "name": "Барсик",
+    "bio": "Барсик-отличный кот. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?",
+    "type": "Кот",
+    "age": "2019-09",
+    "breeds": ["Беспородная"],
+    "gender": "Мальчик",
+    "weight": 5,
+    "height": 25,
+    "sterilized": false,
+    "vaccinated": false,
+    "features":["спокойный", "ласковый", "лоток+"],
+    "shelter": {
+        "id": "5576dfggfапgff",
+        "name": "Уют",
+        "description": "Приют",
+        "address": "Москва"
+    }
+},
+{
+    "id": "aafsdsdfgsdfg355423",
+    "avatar": "https://petify-shelter-back.onrender.com/img/imgdog.jpg",
+    "name": "Дружок",
+    "bio": "Дружок-отличный пёс. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?",
+    "type": "Собака",
+    "age": "2020",
+    "breeds": ["Беспородная"],
+    "gender": "Мальчик",
+    "weight": 20,
+    "height": 80,
+    "sterilized": true,
+    "vaccinated": false,
+    "features":["игривый", "общительный", "поводок+"],
+    "shelter": {
+        "id": "5679dfrgfапgwf",
+        "name": "Маяк",
+        "description": "Приют",
+        "address": "Санкт-Петербург"
+    }
+},
+{
+    "id": "aafdesdfgsdfg352423",
+    "avatar": "https://petify-shelter-back.onrender.com/img/imgbird.jpg",
+    "name": "Флинт",
+    "bio": "Флинт-отличный попугай. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?",
+    "type": "Птица",
+    "age": "2019-04-01",
+    "breeds": ["Волнистый"],
+    "gender": "Мальчик",
+    "weight": 0.04,
+    "height": 15,
+    "sterilized": false,
+    "vaccinated": false,
+    "features":["общительный", "любит солнце"],
+    "shelter": {
+            "id": "5576dfggfапgff",
+            "name": "Уют",
+            "description": "Приют",
+            "address": "Москва"
+    }
+},
+{
+    "id": "bafsdsdfgsdfg352423",
+    "avatar": "https://petify-shelter-back.onrender.com/img/imgpappy.jpg",
+    "name": "Джесси",
+    "bio": "Джесси-отличный щенок. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?",
+    "type": "Собака",
+    "age": "2022-12-12",
+    "breeds": ["Автралийский келпи"],
+    "gender": "Девочка",
+    "weight": 3,
+    "height": 30,
+    "sterilized": false,
+    "vaccinated": true,
+    "features":["ласковая", "общительная"],
+    "shelter": {
+        "id": "5576dfggfапgff",
+        "name": "Уют",
+        "description": "Приют",
+        "address": "Москва"
+    }
+},
+{
+    "id": "aafsdsdfasdfg352423",
+    "avatar": "https://petify-shelter-back.onrender.com/img/imgcat2.jpeg",
+    "name": "Ириска",
+    "bio": "Ириска-отличная кошка. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?",
+    "type": "Кот",
+    "age": "2018-10-23",
+    "breeds": ["Британская длинношёрстная"],
+    "gender": "Девочка",
+    "weight": 3,
+    "height": 30,
+    "sterilized": true,
+    "vaccinated": true,
+    "features":["дружелюбная", "ласковая"],
+    "shelter": {
+        "id": "5679dfrgfапgwf",
+        "name": "Маяк",
+        "description": "Приют",
+        "address": "Санкт-Петербург"
+    }
+},
+{
+    "id": "aafsdsdfgsdfg372423",
+    "avatar": "https://petify-shelter-back.onrender.com/img/imgcat3.jpg",
+    "name": "Пушинка",
+    "bio": "Пушинка-отличная кошка. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?",
+    "type": "Кот",
+    "age": "2021-05-22",
+    "breeds": ["Сибирская"],
+    "gender": "Девочка",
+    "weight": 4,
+    "height": 30,
+    "sterilized": false,
+    "vaccinated": true,
+    "features":["гипоаллергенная", "спокойная"],
+"shelter": {
+    "id": "5679dfrgfапgwf",
+    "name": "Маяк",
+    "description": "Приют",
+    "address": "Санкт-Петербург"
+}
+},
+{
+    "id": "aafsdsdfgsdfg352548",
+    "avatar": "https://petify-shelter-back.onrender.com/img/imgdog2.jpg",
+    "name": "Старк",
+    "bio": "Старк-отличный пёс. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?",
+    "type": "Собака",
+    "age": "2015-04-06",
+    "breeds": ["Бернский зенненхунд"],
+    "gender": "Мальчик",
+    "weight": 50,
+    "height": 80,
+    "sterilized": true,
+    "vaccinated": false,
+    "features":["пожилой", "компаньон", "поводок+"],
+    "shelter": {
+        "id": "5576dfggfапgff",
+        "name": "Уют",
+        "description": "Приют",
+        "address": "Москва"
+    }
+},
+{
+    "id": "aafsdsdfgsdfg352986",
+    "avatar": "https://petify-shelter-back.onrender.com/img/imgdog4.jpg",
+    "name": "Лина",
+    "bio": "Лина-отличная собака. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?",
+    "type": "Собака",
+    "age": "2020-10-06",
+    "breeds": ["Лабрадор", "Ретривер"],
+        "gender": "Девочка",
+    "weight": 20,
+    "height": 50,
+    "sterilized": true, 
+    "vaccinated": true,
+    "features":["спокойная", "любознательная", "доверчивая","поводок+"],
+    "shelter": {
+        "id": "6736dfggfапgff",
+        "name": "Теремок",
+        "description": "Приют",
+        "address": "Калининград"
+    }
+},
+{
+    "id": "adnodsdfgsdfg372423",
+    "avatar": "https://petify-shelter-back.onrender.com/img/imgcat4.jpg",
+    "name": "Муся",
+    "bio": "Муся-отличная кошка. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?",
+    "type": "Кот",
+    "age": "2021-05-26",
+    "breeds": ["Беспородная"],
+    "gender": "Девочка",
+    "weight": 2,
+    "height": 25,
+    "sterilized": true,
+    "vaccinated": true,
+    "features":["ласковая", "общительная", "любопытная"],
+    "shelter": {
+        "id": "5679dfrgfапgwf",
+        "name": "Маяк",
+        "description": "Приют",
+        "address": "Санкт-Петербург"
+    }
+},
+{
+    "id": "aaflasdfgsdfg352423",
+    "avatar": "https://petify-shelter-back.onrender.com/img/imgbird2.jpeg",
+    "name": "Мария",
+    "bio": "Мария-отличный попугай. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?",
+    "type": "Птица",
+    "age": "2019-04-01",
+    "breeds": ["Розелла"],
+    "gender": "Девочка",
+    "weight": 0.06,
+    "height": 25,
+    "sterilized": false,
+    "vaccinated": false,
+    "features":["спокойная", "общительная"],
+    "shelter": {
+        "id": "5679dfrgfапgwf",
+        "name": "Маяк",
+        "description": "Приют",
+        "address": "Санкт-Петербург"
+    }
+},
+{
+    "id": "aafsdsdfgsdfg352933",
+    "avatar": "https://petify-shelter-back.onrender.com/img/imgdog5.jpg",
+    "name": "Мира",
+    "bio": "Мира-отличная собака. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?",
+    "type": "Собака",
+    "age": "2019-12-03",
+    "breeds": ["Автралийский келпи", "Австралийская овчарка"],
+    "gender": "Девочка",
+    "weight": 20,
+    "height": 50,
+    "sterilized": true, 
+    "vaccinated": true,
+    "features":["игривая", "добрая", "общительная","поводок+"],
+    "shelter": {
+        "id": "6736dfggfапgff",
+        "name": "Теремок",
+        "description": "Приют",
+        "address": "Калининград"
+    }
+},
+{
+    "id": "bafsdsdfgsdfg357523",
+    "avatar": "https://petify-shelter-back.onrender.com/img/imgpappy2.jpg",
+    "name": "Трезор",
+    "bio": "Трезор-отличный щенок. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?",
+    "type": "Собака",
+    "age": "2022-11-22",
+    "breeds": ["Беспородная"],
+    "gender": "Мальчик",
+    "weight": 2,
+    "height": 30,
+    "sterilized": false,
+    "vaccinated": true,
+    "features":["азарной", "любопытный", "активный" ],
+    "shelter": {
+        "id": "5576dfggfапgff",
+        "name": "Уют",
+        "description": "Приют",
+        "address": "Москва"
+    }
+},
+{
+    "id": "adnodsdfgsdfg372083",
+    "avatar": "https://petify-shelter-back.onrender.com/img/imgcat5.jpg",
+    "name": "Соня",
+    "bio": "Соня-отличная кошка. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?",
+    "type": "Кот",
+    "age": "2020-10-17",
+    "breeds": ["Американская короткошёрстная"],
+    "gender": "Девочка",
+    "weight": 3,
+    "height": 30,
+    "sterilized": true,
+    "vaccinated": true,
+    "features":["осторожная", "спокойная"],
+    "shelter": {
+        "id": "5679dfrgfапgwf",
+        "name": "Маяк",
+        "description": "Приют",
+        "address": "Санкт-Петербург"
+    }
+},
+{
+    "id": "bafsdsdkgsdfg357523",
+    "avatar": "https://petify-shelter-back.onrender.com/img/imgpappy3.jpg",
+    "name": "Ника",
+    "bio": "Ника-отличный щенок. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?",
+    "type": "Собака",
+    "age": "2022-12-22",
+    "breeds": ["Беспородная"],
+    "gender": "Девочка",
+    "weight": 2,
+    "height": 20,
+    "sterilized": false,
+    "vaccinated": true,
+    "features":["спокойная", "ласковая", "контактная" ],
+    "shelter": {
+        "id": "5679dfrgfапgwf",
+        "name": "Маяк",
+        "description": "Приют",
+        "address": "Санкт-Петербург"
+    }   
+},
+{
+    "id": "adnoxerfgsdfs722083",
+    "avatar": "https://petify-shelter-back.onrender.com/img/imgcat7.jpg",
+    "name": "Тишка",
+    "bio": "Тишка-отличная кошка. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?",
+    "type": "Кот",
+    "age": "2022-12-10",
+    "breeds": ["Беспородная"],
+    "gender": "Мальчик",
+    "weight": 1.5,
+    "height": 20,
+    "sterilized": false,
+    "vaccinated": false,
+    "features":["спокойный", "тихий", "ласковая"],
+    "shelter": {
+        "id": "6736dfggfапgff",
+        "name": "Теремок",
+        "description": "Приют",
+        "address": "Калининград"
+    }
+},
+{
+    "id": "aaflasdfgsdnr552423",
+    "avatar": "https://petify-shelter-back.onrender.com/img/imgbird3.jpg",
+    "name": "Говорун",
+    "bio": "Говорун-отличный попугай. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?",
+    "type": "Птица",
+    "age": "2018-08-15",
+    "breeds": ["Корелла"],
+    "gender": "Мальчик",
+    "weight": 0.1,
+    "height": 30,
+    "sterilized": false,
+    "vaccinated": false,
+    "features":["ручной", "говорит", "общительный"],
+    "shelter": {
+            "id": "5576dfggfапgff",
+            "name": "Уют",
+            "description": "Приют",
+            "address": "Москва"
+    }
+},
+{
+    "id": "bafsdsdfgsdfg357223",
+    "avatar": "https://petify-shelter-back.onrender.com/img/imgpappy4.jpg",
+    "name": "Контик",
+    "bio": "Контик-отличный щенок. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?",
+    "type": "Собака",
+    "age": "2023-01-10",
+    "breeds": ["Беспородная"],
+    "gender": "Мальчик",
+    "weight": 2,
+    "height": 20,
+    "sterilized": false,
+    "vaccinated": false,
+    "features":["спокойный", "смышлённый", "тихий" ],
+    "shelter": {
+        "id": "6736dfggfапgff",
+        "name": "Теремок",
+        "description": "Приют",
+        "address": "Калининград"
+    }
+},
+{
+    "id": "adnoxerfgsdfg372083",
+    "avatar": "https://petify-shelter-back.onrender.com/img/imgcat6.jpg",
+    "name": "Уголёк",
+    "bio": "Уголёк-отличная кошка. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?",
+    "type": "Кот",
+    "age": "2019-12-10",
+    "breeds": ["Персидская"],
+    "gender": "Девочка",
+    "weight": 3,
+    "height": 30,
+    "sterilized": true,
+    "vaccinated": true,
+    "features":["общительная", "спокойная", "ласковая"],
+    "shelter": {
+        "id": "6736dfggfапgff",
+        "name": "Теремок",
+        "description": "Приют",
+        "address": "Калининград"
+    }
+},
+{
+    "id": "aafopsdfgsdfg352933",
+    "avatar": "https://petify-shelter-back.onrender.com/img/imgdog3.jpg",
+    "name": "Сара",
+    "bio": "Сара-отличная собака.Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?",
+    "type": "Собака",
+    "age": "2017-03-09",
+    "breeds": ["Беспородная"],
+        "gender": "Девочка",
+    "weight": 20,
+    "height": 50,
+    "sterilized": true, 
+    "vaccinated": true,
+    "features":["спокойная", "медлительная", "тихая","поводок+"],
+    "shelter": {
+        "id": "6736dfggfапgff",
+        "name": "Теремок",
+        "description": "Приют",
+        "address": "Калининград"
+    }
+},
+{
+    "id": "aafsdsxposdfg352548",
+    "avatar": "https://petify-shelter-back.onrender.com/img/imgdog6.jpg",
+    "name": "Иртыш",
+    "bio": "Иртыш-отличный пёс. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?",
+    "type": "Собака",
+    "age": "2019-09-06",
+    "breeds": ["Хаски", "Лайка"],
+    "gender": "Мальчик",
+    "weight": 30,
+    "height": 70,
+    "sterilized": false,
+    "vaccinated": false,
+    "features":["умный", "компаньон", "надёжный", "поводок+"],
+    "shelter": {
+        "id": "5576dfggfапgff",
+        "name": "Уют",
+        "description": "Приют",
+        "address": "Москва"
+    }
+},
+{
+    "id": "adnoqwefgsdfg372083",
+    "avatar": "https://petify-shelter-back.onrender.com/img/imgcat8.jpg",
+    "name": "Пушок",
+    "bio": "Пушок-отличная кошка. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?",
+    "type": "Кот",
+    "age": "2018-11-11",
+    "breeds": ["Турецкий ван"],
+    "gender": "Мальчик",
+    "weight": 4,
+    "height": 30,
+    "sterilized": true,
+    "vaccinated": true,
+    "features":["общительная", "спокойная", "ласковая"],
+    "shelter": {
+        "id": "6736dfggfапgff",
+        "name": "Теремок",
+        "description": "Приют",
+        "address": "Калининград"
+    }
+}
+]
