@@ -21,29 +21,22 @@ app.use(express.json())
 app.use('/img', express.static('./img'));
 
 app.use(cors({
-    origin: "*",
+    origin: [process.env.FRONT_URL, process.env.FRONT_URL_GITPG],
     methods: ['GET', 'POST'],
     allowedHeaders: ["Content-Type"],
     credentials: true,
 }))
 
-// origin: process.env.FRONT_URL,
-// origin: [`${process.env.FRONT_URL}`, `${process.env.FRONT_URL_GITPG}`],
-
 app.use(morgan('dev'))
 
 app.use ('/api/v1', appRouter);
 
-// mongoose.connect("mongodb+srv://kysok008:F5pFyJEGXqYzfAY@cluster0.bwrnpy1.mongodb.net/PetifyShelter?retryWrites=true&w=majority")
 mongoose.connect(`${process.env.MONGO_URI}`)
     .then(()=> {
         app.listen(process.env.PORT, 'localhost', (error)=> {
             error ? console.log(error) : console.log (`connected to DB & server listening port http://localhost:${process.env.PORT}`);
+            //         error ? console.log(error) : console.log (`connected to DB & server listening port http://127.0.0.1:${process.env.PORT}`);
         })
     })
-    // .then(()=> {
-    //     app.listen(process.env.PORT, (error)=> {
-    //         error ? console.log(error) : console.log (`connected to DB & server listening port http://127.0.0.1:${process.env.PORT}`);
-    //     })
-    // })
+
     .catch((error)=>{console.log(error)});

@@ -3,7 +3,6 @@ const mongoose = require('mongoose')
 const bcrypt = require("bcrypt")
 const jwt = require('jsonwebtoken')
 const User = require('../models/UserModel.js')
-// const TokenModel = require('../models/TockenModel.js');
 
 const createToken = (_id) => {
     const accessToken = jwt.sign({_id}, process.env.ACCESS_SECRET, {expiresIn: '30m'});
@@ -16,17 +15,14 @@ const SignUp = async (req, res) => {
     try{
         if(!/^\S+@\w{2,}\.\w{2,3}$/.test(email)) {
             return res.status(403).json("The email is not valid")
-            // throw new Error('The email is not valid')
         }
         if(!/^\S{8,64}$/.test(password)) {
-            // throw new Error('The password is not valid')
             return res.status(403).json("The password is not valid")
         }
         const exists = await User.findOne({email})
 
     if(exists) {
         return res.status(403).json('Пользователь с таким email уже существует');
-        // throw new Error('The same email aleady exsists')
     }
 
     const salt = await bcrypt.genSalt(10);
@@ -37,9 +33,6 @@ const SignUp = async (req, res) => {
     return res.status(200).json({user, token})
    
         
-        
-
-
         // const users = await fs.promises.readFile('user.json')
         // if (!users.length){
         //     const newUsers = []
