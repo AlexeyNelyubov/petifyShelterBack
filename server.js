@@ -21,7 +21,7 @@ app.use(express.json())
 app.use('/img', express.static('./img'));
 
 app.use(cors({
-    origin: ["http://localhost:5173", "https://alexeynelyubov.github.io"],
+    origin: process.env.FRONT_URL_GITPG,
     methods: ['GET', 'POST'],
     allowedHeaders: ["Content-Type"],
     credentials: true,
