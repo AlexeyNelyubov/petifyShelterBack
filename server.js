@@ -27,8 +27,6 @@ app.use(cors({
     credentials: true,
 }))
 
-// origin: [process.env.FRONT_URL, process.env.FRONT_URL_GITPG],
-
 app.use(morgan('dev'))
 
 app.use ('/api/v1', appRouter);

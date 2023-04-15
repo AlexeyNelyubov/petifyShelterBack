@@ -21,11 +21,9 @@ const signIn = async (req,res)=> {
         if (!match) { 
             return res.status(403).json("Неверно указан пароль")
             }
-        // , httpOnly: true domain: 'localhost:4000', path: '/api' , sameSite:'strict', secure:true
         const token = createToken(user._id)
         console.log(token.refreshToken)
-        res.cookie('refreshToken', token.refreshToken, {maxAge: 30*24*60*60*1000, httpOnly: true, sameSite:'none', secure:true})
-        // res.cookie('refreshToken', token.refreshToken, {maxAge: 30*24*60*60*1000})
+        res.cookie('refreshToken', token.refreshToken, {maxAge: 30*24*60*60*1000, domain: 'localhost:5173', path: '/', httpOnly: true, sameSite:'none', secure:true})
         // return res.status(200).json({user, token: token.accessToken, cookie: token.refreshToken});
         return res.status(200).json({user, token: token.accessToken});
         // const findUserInDB = false;
