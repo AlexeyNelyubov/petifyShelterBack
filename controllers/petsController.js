@@ -6,10 +6,10 @@ const listPets = async(req, res) => {
         try {
             // const pets = await Pet.find({})
             const pets = await Pet2.find({})
-            // const pets = require('../Petscopy.json')
+            // const pets = require('../Pets.json')
             // for(let pet of pets) {
             //     const {avatar, type, gender, name, age, breeds, weight, height, sterilized, vaccinated, features, bio, shelter } = pet;
-            //     await Pet2.create({avatar, type, gender, name, age, breeds, weight, height, sterilized, vaccinated, features, bio, shelter });
+            //     await Pet.create({avatar, type, gender, name, age, breeds, weight, height, sterilized, vaccinated, features, bio, shelter });
             // }
             res.status(200).json(pets)
         }
